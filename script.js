@@ -34,6 +34,4 @@ const playTheGame = (human, machine) => {
     machineScore.innerHTML = machineScoreNumber
     result.innerHTML = 'Você perdeu!'
   }
-
-  console.log('Humano: ' + human + ' Maquina: ' + machine)
 }

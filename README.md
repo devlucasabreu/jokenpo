@@ -42,10 +42,6 @@ O sistema mantém o controle da pontuação durante a sessão:
 - **Interface Responsiva**: O design foi pensado para ser limpo e centralizado, utilizando técnicas de Flexbox.
 - **Feedback Visual**: Botões coloridos e estilizados para uma melhor experiência do usuário (UX).
 
-## 🛠️ Como Executar
-
-Como o projeto utiliza apenas tecnologias front-end puras, basta abrir o arquivo `index.html` em qualquer navegador moderno.
-
 ---
 
 _Desenvolvido por Lucas Abreu como exercício de lógica e interface._

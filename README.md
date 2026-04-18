@@ -50,4 +50,4 @@ Como o projeto utiliza apenas tecnologias front-end puras, basta abrir o arquivo
 
 _Desenvolvido por Lucas Abreu como exercício de lógica e interface._
 
-[Clique aqui para jogar](https://devlucasabreu.github.io/jokenpo/)
+[Clique aqui para jogar](https://jokenpo-lucasabreu.netlify.app/)

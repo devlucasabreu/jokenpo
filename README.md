@@ -1,5 +1,9 @@
 # ✊ ✋ ✌️ Jokenpô Project
 
+<p align="center">
+  <a href="https://jokenpo-lucasabreu.netlify.app/"><strong>Clique aqui para jogar</strong></a>
+</p>
+
 Bem-vindo ao **Jokenpô**, um jogo clássico de Pedra, Papel e Tesoura desenvolvido como parte dos meus estudos em desenvolvimento Web. O objetivo deste projeto é colocar em prática conceitos fundamentais de lógica de programação, manipulação do DOM e estilização moderna.
 
 ## 📋 Sobre o Projeto
@@ -46,4 +50,3 @@ O sistema mantém o controle da pontuação durante a sessão:
 
 _Desenvolvido por Lucas Abreu como exercício de lógica e interface._
 
-[Clique aqui para jogar](https://jokenpo-lucasabreu.netlify.app/)
